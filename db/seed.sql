@@ -1,4 +1,4 @@
-\c task_app
+\c task_app;
 
 INSERT INTO tasks (title, description, created_at) VALUES
   ('Study for Interviews', 'Review common interview questions and practice problem-solving.', '2024-01-25 10:00:00'),
